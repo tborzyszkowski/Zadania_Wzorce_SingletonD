@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 01.04.2022 23:00|  10       |
+| 17.03.2023 23:00|  10       |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -12,7 +12,7 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 Zaproponować przykładowe rozwiązania trzech problemów związanych ze wzorcem Singleton (wybierz z poniższych):
 
 1. Odporność na współbieżne wykorzystanie kodu z jednoczesnym zachowaniem maksymalnej wydajności
-2. Problem rozszerzania klasy Singleton przez dziedziczenie (różna podejścia)
+2. Problem rozszerzania klasy Singleton przez dziedziczenie (różne podejścia)
 3. Problem serializacji i deserializacji obiektów klasy Singleton
 4. W programie wielowątkowym, konstrukcja zapewniająca jeden singleton na wątek
 
